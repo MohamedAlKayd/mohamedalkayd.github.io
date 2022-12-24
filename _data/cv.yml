@@ -2,230 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Mohamed Mahmoud
-    
+      value: Albert Einstein
     - name: Date of Birth
-      value: 15th May 2000
-
+      value: 14th March 1879
     - name: Languages
-      value: Arabic, English
+      value: English, German
 
 - title: Education
   type: time_table
-  
   contents:
-    
-    - title: Bachelors Degree
-      institution: McGill University, Montreal, Canada
-      year: 2023
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        
-        - title: Major
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Software Engineering
-        
-        - title: Minors
-          contents:
-            - Computer Science
-            - Economics
-
-- title: Research
-  type: time_table
-  
-  contents:
-    
-    - title: Robot Control System Research Project
-      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
-      year: Summer 2022
-      supervisor: Professor Joseph Vybihal
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        
-        - title:  Designing and building the basic hardware structure and the control system software for a wheeled autonomous robot.
-          contents:
-          - Built vehicle on wheels Robot with additional sensors together with a base AI program.
-          - Robot can explore advanced problems in AI, sensors, robotic group dynamics, and advanced control systems. 
-    
-    - title: Autonomous Agents Research Project
-      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
-      year: Winter 2023
-      supervisor: Professor Joseph Vybihal
-      description:
-        
-        - title: Optimizing built hover robot with advanced artificial intelligence algorithms.
-          contents:
-          - Implementing multi-agent system by controlling boe-bots on MODBUS TCP/IP networks concurrently with hover robot.
-          - Testing ABM, BDI models, ConGolog Situation Calculus, ROS autonomous agents, and Adaptive Monte Carlo Localization on system.
+        - Description 1.
+        - Description 2.
 
-    - title: Kinova Gen 3 Robot Arm Research Project
-      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
-      year: Winter 2023
-      supervisor: Professor David Meger
-      description:
-        
-        - title:  Use Robotics Operating System to simulate, test, and automate Kinova Gen 3 Robot Arm.
-          contents:
-          - Researching path and trajectory planning for Kinova Gen 3 Robot Arm using different artificial intelligence and machine learning algorithms.
-          - Programming Kinova Gen 3 Robot Arm to perform complex tasks using Robotics Operating System, Ubuntu, and Gazebo.
-
-- title: Teaching Experience
-  type: time_table
-  
-  contents:
-    
-    - title: Industry Mentorship Program - Mentor
-      institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
-      year: Fall 2022 - Winter 2023
-      description:
-        
-        - title: Lectures
-          contents:
-            - Lecture 1:Linux Command Line Basics, Git Review, Other important development tools.
-            - Lecture 2:Introduction to web development.
-            - Lecture 8:Testing.
-            - Lecture 9:Security and other advanced topics.
-            - Lecture 10:Deploying your application.
-
-        - title: Capstone Project
-          contents:
-            - Boe Bot Maze Escaper Robot
-
-    - title: Help Desk - Tutor
-      institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
-      year: Fall 2022 - Winter 2023
-      description:
-        
-        - title: Review Sessions
-          contents:
-            - COMP202 Fall 2022 Midterm Review
-            - COMP202 Fall 2022 Final Review
-            - COMP206 Fall 2022 Midterm Review
-
-        - title: Weekly Tutoring
-          contents:
-            - 3 Hours / week for 26 weeks
-
-title: Technical Skills
-type: time_table
-
-contents:
-
-- title: Programming Languages 
-skills: Python, Bash, C, Java, Mips32, Circ (Circuits), Ocaml, JavaScript, Node J.S, HTML, CSS, PHP, SQL, React, Angular, 
-Intel Assembly X86, OpenGL, GLSL, C++, ROS.
-
-- title: Operating Systems
-skills: Unix/Linux, Microsoft Windows, Mac OSX, iOS, Android, DOS OS, Raspbian.
-
-- title: Software/Technologies/Tools 
-skills: Visual Studio, Thonny, CodePost, Command Line, Vim, Visual Studio Code, IntelliJ IDEA, Eclipse, EduFlow, 
-LATEX, Overleaf, XChart, Turbo C, MARS, Logisim Evolution, LearnOcaml, JetUML, UML Diagramming, XAMPP, MEAN, DJANGO, MERN, 
-RESTAPI, Apache, Express, SOCS, Bootstrap, XML, DIV, AJAX, jQuery, DEBUG, IBM PC, Windows Command-Line Assembler, DOSBox, Git, 
-Standard Graphics Cards, Sublime, MASM, TASM, Qt Creator, Putty, FileZilla, Wekzeug, Jinja2, Flask, SQL, MYSQL Workbench, gyroscopes.
-
-- title: Hardware Skills
-skills: Arduino, Raspberry Pi, ZS-X11A/B Motor Controllers, MOT-1-BLDC Motor Controllers, Riorand Motor Controllers, IGUS D1 
-Dryves, PICAN2, CANgine Berry, Soldering, Wiring, Welding, 3D Printers, Hoverboards, Fuses and Fuse holders, gyroscopes, ADIS16448 IMU, 
-ADIS16470 IMU, Digital to Analog Convertors, DFR0552 Module.
-
-- title: Networking
-skills: MODBUS TCP/IP, CANBUS, CANOPEN, UART, SPI, I2C.
-
-- title: Work Experience
-  type: time_table
-
-  contents:
-
-    - title: Robotics Software Engineering Intern
-      institution: Robotics Design Inc, Montreal, Canada
-      year: May 2022 - April 2023
-      description:
-        
-        - title: Full-time, Summer 2022
-          contents:
-          - Advanced the control system software for modified IGUS D1 Dryves by implementing algorithms for limit switch detection and analogue control.
-          - Added new features to internship project such as tip-teach motor control mode, joystick control and wireless CAN control of motor controllers.
-          - Implemented advanced protection paradigms for completed flask-based web application and deployed it to Google Compute Engine Cloud. 
-          - Used custom internship project in Host Organization Industry project for well known North American airliner
-
-        - title: Part-time, Fall 2022 - Winter 2023
-          contents:
-          - Built control system software for IGUS D1 dryves using Raspberry pi, Arduino, Intel X86 Assembly, C, C++, Java, CANgineBerry, PiCAN2.
-          - Designed the graphical user interface to interact with the built IGUS D1 dryves’ control system.
-          - Implemented cross-device testing of solutions to increase user accessibility.
-          - Used CANOPEN and MODBUS communication protocols to program motor controllers for Stepper, DC, and EC motors with up to 21A and 48V
-    
-    - title: Drone Software Engineer
-      institution: McGill University Robotics Drone Team, Montreal, Canada
-      year: Fall 2022 - Winter 2023
-      description:
-          - Advanced AI-driven planning and mid-course correction programs by refining AI algorithms for autonomous trajectory creation and co-piloting.
-          - Introduced the use of real-time ROS features such as multi-threading into the drone program in addition to implementing advanced ROS features.
-          - Implemented robotic features such as motion planning, mapping, manipulators, robot algorithms, deep and machine learning, and computer vision.
-          - Used different communication protocols such as CAN, I2C, UART, SPI, and others with the 3DR Pixhawk Mini as the autopilot to control drone
-
-- title: Industry Mentorship Program - Mentor
-      institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
-      year: Fall 2022 - Winter 2023
-      description:
-          - Gave lectures and conducted the respective post-lecture sessions and helped in slide and study material creation.
-          - Held weekly office hours to help mentees with issues that they faced regarding the lecture material and the capstone project.
-          - Attended weekly check-ins with the mentees and other industry mentorship program mentors.
-          - Fostered an inclusive and equitable learning environment for all mentees of my group.
-
-- title: Help Desk - Tutor
-      institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
-      year: Fall 2022 - Winter 2023
-      description:
-- Helped students with quizzes, assignments, projects, and general questions about the Computer Science program course material.
-- Attended weekly sessions with other tutors to review tutoring strategies and discuss improvements to the tutoring program suggested by students.
-- Arranged weekly study sessions with students facing difficulties in specific areas of a Computer Science or Software Engineering course.
-- Coordinated between students unable to benefit fully from the help desk tutoring with Professors and Teaching Assistants of the courses
-
-- title: Undergraduate Note-taker
-      institution: McGill University OSD Student Office, Montreal, Canada
-      year: Winter 2021 - Winter 2023
-      description:
-- Provided academic support regarding understanding difficult concepts via email and zoom meetings to students registered with the OSD Office.
-- Provided detailed, organized lecture, lab, and tutorial notes to Undergraduate Students.
-- Tutored students in various Subjects (Engineering, Computer Science, Physics, Mathematics, Economics).
-- Completed over 180 Hours as an Undergraduate Note-taker
-
-- title: Organizations
+- title: Experience
   type: time_table
   contents:
-    - title: <a href="https://cscan-infocan.ca/mohamed-mahmoud/">CS-CAN</a>
-      year: 2022-Present
-      description: Computer Science Canada / Informatique Canada
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
-    - title: <a href="https://mcgill-csus.github.io/industry-mentorship/">Industry Mentorship Program</a>
-      year: 2022-Present
-      description: Tech Industry Preparation
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018
+    - year: 1921
       items: 
-        - Hugh Brock Entrance Scholarship
-    - year: 2022
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
       items: 
-        - Undergraduate Internship Award
-        - Tomlinson Project in University-Level Science Education (T-Pulse) Engagement Award for Mentoring (TEAM)
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Robotics
+    - title: Topic 1.
       items: 
-
-    - title: Artificial Intelligence
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-
-    - title: Machine Learning
-      items:
-=
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Programming robots, disassembling and assembling hardware.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
