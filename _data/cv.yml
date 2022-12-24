@@ -2,11 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mohamed Mahmoud
+    
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th May 2000
+
     - name: Languages
-      value: English, German
+      value: Arabic, English
 
 - title: Education
   type: time_table
