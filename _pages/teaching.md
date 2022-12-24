@@ -1,12 +1,32 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Experience teaching at the Undergraduate level.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+
+<b>Computer Science Undergraduate Society Industry Mentorship Program – Mentor</b>
+
+- Lecture 1: Linux Command Line Basics, Git Review, Other important development tools.
+
+- Lecture 2: Introduction to web development.
+
+- Lecture 8: Testing.
+
+- Lecture 9: Security and other advanced topics.
+
+- Lecture 10: Deploying your application.
+
+
+<b>Computer Science Undergraduate Society Help Desk – Tutor</b>
+
+- COMP202 Fall 2022 Midterm Review
+
+- COMP202 Fall 2022 Final Review
+
+- COMP206 Fall 2022 Midterm Review
