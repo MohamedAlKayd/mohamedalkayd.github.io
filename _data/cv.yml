@@ -110,25 +110,25 @@ type: time_table
 contents:
 
 - title: Programming Languages 
-skills: Python, Bash, C, Java, Mips32, Circ (Circuits), Ocaml, JavaScript, Node J.S, HTML, CSS, PHP, SQL, React, Angular, 
+description: Python, Bash, C, Java, Mips32, Circ (Circuits), Ocaml, JavaScript, Node J.S, HTML, CSS, PHP, SQL, React, Angular, 
 Intel Assembly X86, OpenGL, GLSL, C++, ROS.
 
 - title: Operating Systems
-skills: Unix/Linux, Microsoft Windows, Mac OSX, iOS, Android, DOS OS, Raspbian.
+description: Unix/Linux, Microsoft Windows, Mac OSX, iOS, Android, DOS OS, Raspbian.
 
 - title: Software/Technologies/Tools 
-skills: Visual Studio, Thonny, CodePost, Command Line, Vim, Visual Studio Code, IntelliJ IDEA, Eclipse, EduFlow, 
+description: Visual Studio, Thonny, CodePost, Command Line, Vim, Visual Studio Code, IntelliJ IDEA, Eclipse, EduFlow, 
 LATEX, Overleaf, XChart, Turbo C, MARS, Logisim Evolution, LearnOcaml, JetUML, UML Diagramming, XAMPP, MEAN, DJANGO, MERN, 
 RESTAPI, Apache, Express, SOCS, Bootstrap, XML, DIV, AJAX, jQuery, DEBUG, IBM PC, Windows Command-Line Assembler, DOSBox, Git, 
 Standard Graphics Cards, Sublime, MASM, TASM, Qt Creator, Putty, FileZilla, Wekzeug, Jinja2, Flask, SQL, MYSQL Workbench, gyroscopes.
 
 - title: Hardware Skills
-skills: Arduino, Raspberry Pi, ZS-X11A/B Motor Controllers, MOT-1-BLDC Motor Controllers, Riorand Motor Controllers, IGUS D1 
+description: Arduino, Raspberry Pi, ZS-X11A/B Motor Controllers, MOT-1-BLDC Motor Controllers, Riorand Motor Controllers, IGUS D1 
 Dryves, PICAN2, CANgine Berry, Soldering, Wiring, Welding, 3D Printers, Hoverboards, Fuses and Fuse holders, gyroscopes, ADIS16448 IMU, 
 ADIS16470 IMU, Digital to Analog Convertors, DFR0552 Module.
 
 - title: Networking
-skills: MODBUS TCP/IP, CANBUS, CANOPEN, UART, SPI, I2C.
+description: MODBUS TCP/IP, CANBUS, CANOPEN, UART, SPI, I2C.
 
 - title: Work Experience
   type: time_table
