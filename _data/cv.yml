@@ -104,31 +104,39 @@
           contents:
             - 3 Hours / week for 26 weeks
 
-- title: Skills
+- title: Teaching Experience
   type: time_table
   
   contents:
+    
+    - title: Industry Mentorship Program - Mentor
+      institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
+      year: 2022 - 2023
+      description:
+        
+        - title: Lectures
+          contents:
+            - Lecture 1:Linux Command Line Basics, Git Review, Other important development tools.
+            - Lecture 2:Introduction to web development.
+            - Lecture 8:Testing.
+            - Lecture 9:Security and other advanced topics.
+            - Lecture 10:Deploying your application.
 
-    - title: Technical
-      institution:
-      descriptions:
+        - title: Capstone Project
+          contents:
+            - Boe Bot Maze Escaper Robot
 
-        - title: Programming Languages
-          contents: 
-          - Python, Bash, C, Java, Mips32, Circ (Circuits), Ocaml, JavaScript, Node J.S, HTML, CSS, PHP, SQL, React, Angular, Intel Assembly X86, OpenGL, GLSL, C++, ROS.
+    - title: Help Desk - Tutor
+      institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
+      year: 2022 - 2023
+      description:
+        
+        - title: Review Sessions
+          contents:
+            - COMP202 Fall 2022 Midterm Review
+            - COMP202 Fall 2022 Final Review
+            - COMP206 Fall 2022 Midterm Review
 
-      - title: Operating Systems
-          contents: 
-          - Unix/Linux, Microsoft Windows, Mac OSX, iOS, Android, DOS OS, Raspbian.
-
-      - title: Software/Technologies/Tools 
-          contents: 
-          - Visual Studio, Thonny, CodePost, Command Line, Vim, Visual Studio Code, IntelliJ IDEA, Eclipse, EduFlow, LATEX, Overleaf, XChart, Turbo C, MARS, Logisim Evolution, LearnOcaml, JetUML, UML Diagramming, XAMPP, MEAN, DJANGO, MERN, RESTAPI, Apache, Express, SOCS, Bootstrap, XML, DIV, AJAX, jQuery, DEBUG, IBM PC, Windows Command-Line Assembler, DOSBox, Git, Standard Graphics Cards, Sublime, MASM, TASM, Qt Creator, Putty, FileZilla, Wekzeug, Jinja2, Flask, SQL, MYSQL Workbench, gyroscopes.
-
-      - title: Hardware Skills
-          contents: 
-          - Arduino, Raspberry Pi, ZS-X11A/B Motor Controllers, MOT-1-BLDC Motor Controllers, Riorand Motor Controllers, IGUS D1 Dryves, PICAN2, CANgine Berry, Soldering, Wiring, Welding, 3D Printers, Hoverboards, Fuses and Fuse holders, gyroscopes, ADIS16448 IMU, ADIS16470 IMU, Digital to Analog Convertors, DFR0552 Module.
-
-      - title: Networking
-          contents: 
-          - MODBUS TCP/IP, CANBUS, CANOPEN, UART, SPI, I2C.
+        - title: Weekly Tutoring
+          contents:
+            - 3 Hours / week for 26 weeks
