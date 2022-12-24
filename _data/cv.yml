@@ -29,6 +29,44 @@
             - Computer Science
             - Economics
 
+- title: Research
+  type: time_table
+  
+  contents:
+    
+    - title: Robot Control System Research Project
+      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
+      year: Summer 2022
+      supervisor: Professor Joseph Vybihal
+      description:
+        
+        - title:  Designing and building the basic hardware structure and the control system software for a wheeled autonomous robot.
+          contents:
+          - Built vehicle on wheels Robot with additional sensors together with a base AI program.
+          - Robot can explore advanced problems in AI, sensors, robotic group dynamics, and advanced control systems. 
+    
+    - title: Autonomous Agents Research Project
+      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
+      year: Winter 2023
+      supervisor: Professor Joseph Vybihal
+      description:
+        
+        - title: Optimizing built hover robot with advanced artificial intelligence algorithms.
+          contents:
+          - Implementing multi-agent system by controlling boe-bots on MODBUS TCP/IP networks concurrently with hover robot.
+          - Testing ABM, BDI models, ConGolog Situation Calculus, ROS autonomous agents, and Adaptive Monte Carlo Localization on system.
+
+    - title: Kinova Gen 3 Robot Arm Research Project
+      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
+      year: Winter 2023
+      supervisor: Professor David Meger
+      description:
+        
+        - title:  Use Robotics Operating System to simulate, test, and automate Kinova Gen 3 Robot Arm.
+          contents:
+          - Researching path and trajectory planning for Kinova Gen 3 Robot Arm using different artificial intelligence and machine learning algorithms.
+          - Programming Kinova Gen 3 Robot Arm to perform complex tasks using Robotics Operating System, Ubuntu, and Gazebo.
+
 - title: Experience
   type: time_table
   contents:
