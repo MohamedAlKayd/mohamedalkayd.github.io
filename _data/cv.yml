@@ -107,23 +107,18 @@
 - title: Technical Skills
   type: map
   contents:
-        - name: Programming Languages 
-        value: Python, Bash, C, Java, Mips32, Circ (Circuits), Ocaml, JavaScript, Node J.S, HTML, CSS, PHP, SQL, React, Angular, 
-        Intel Assembly X86, OpenGL, GLSL, C++, ROS.
 
-        - name: Operating Systems
-        value: Unix/Linux, Microsoft Windows, Mac OSX, iOS, Android, DOS OS, Raspbian.
+      - name: Programming Languages
+          value: Python, Bash, C, Java, Mips32, Circ (Circuits), Ocaml, JavaScript, Node J.S, HTML, CSS, PHP, SQL, React, Angular, Intel Assembly X86, OpenGL, GLSL, C++, ROS.
 
-        - name: Software/Technologies/Tools 
-        value: Visual Studio, Thonny, CodePost, Command Line, Vim, Visual Studio Code, IntelliJ IDEA, Eclipse, EduFlow, 
-        LATEX, Overleaf, XChart, Turbo C, MARS, Logisim Evolution, LearnOcaml, JetUML, UML Diagramming, XAMPP, MEAN, DJANGO, MERN, 
-        RESTAPI, Apache, Express, SOCS, Bootstrap, XML, DIV, AJAX, jQuery, DEBUG, IBM PC, Windows Command-Line Assembler, DOSBox, Git, 
-        Standard Graphics Cards, Sublime, MASM, TASM, Qt Creator, Putty, FileZilla, Wekzeug, Jinja2, Flask, SQL, MYSQL Workbench, gyroscopes.
+      - name: Operating Systems
+          value: Unix/Linux, Microsoft Windows, Mac OSX, iOS, Android, DOS OS, Raspbian.
 
-        - name: Hardware Skills
-        value: Arduino, Raspberry Pi, ZS-X11A/B Motor Controllers, MOT-1-BLDC Motor Controllers, Riorand Motor Controllers, IGUS D1 
-        Dryves, PICAN2, CANgine Berry, Soldering, Wiring, Welding, 3D Printers, Hoverboards, Fuses and Fuse holders, gyroscopes, ADIS16448 IMU, 
-        ADIS16470 IMU, Digital to Analog Convertors, DFR0552 Module.
+      - name: Software/Technologies/Tools 
+          value: Visual Studio, Thonny, CodePost, Command Line, Vim, Visual Studio Code, IntelliJ IDEA, Eclipse, EduFlow, LATEX, Overleaf, XChart, Turbo C, MARS, Logisim Evolution, LearnOcaml, JetUML, UML Diagramming, XAMPP, MEAN, DJANGO, MERN, RESTAPI, Apache, Express, SOCS, Bootstrap, XML, DIV, AJAX, jQuery, DEBUG, IBM PC, Windows Command-Line Assembler, DOSBox, Git, Standard Graphics Cards, Sublime, MASM, TASM, Qt Creator, Putty, FileZilla, Wekzeug, Jinja2, Flask, SQL, MYSQL Workbench, gyroscopes.
 
-        - name: Networking
-        value: MODBUS TCP/IP, CANBUS, CANOPEN, UART, SPI, I2C.
+      - name: Hardware Skills
+          value: Arduino, Raspberry Pi, ZS-X11A/B Motor Controllers, MOT-1-BLDC Motor Controllers, Riorand Motor Controllers, IGUS D1 Dryves, PICAN2, CANgine Berry, Soldering, Wiring, Welding, 3D Printers, Hoverboards, Fuses and Fuse holders, gyroscopes, ADIS16448 IMU, ADIS16470 IMU, Digital to Analog Convertors, DFR0552 Module.
+
+      - name: Networking
+          value: MODBUS TCP/IP, CANBUS, CANOPEN, UART, SPI, I2C.
