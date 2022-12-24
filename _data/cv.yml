@@ -110,6 +110,8 @@
   contents:
 
     - title: Technical
+      institution:
+      year:
       descriptions:
 
         - title: Programming Languages
