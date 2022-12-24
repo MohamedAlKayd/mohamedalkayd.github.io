@@ -261,7 +261,7 @@
           - Implemented robotic features such as motion planning, mapping, manipulators, robot algorithms, deep and machine learning, and computer vision.
           - Used different communication protocols such as CAN, I2C, UART, SPI, and others with the 3DR Pixhawk Mini as the autopilot to control drone
 
-- title: Industry Mentorship Program - Mentor
+    - title: Industry Mentorship Program - Mentor
       institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
       year: Fall 2022 - Winter 2023
       description:
@@ -270,23 +270,23 @@
           - Attended weekly check-ins with the mentees and other industry mentorship program mentors.
           - Fostered an inclusive and equitable learning environment for all mentees of my group.
 
-- title: Help Desk - Tutor
+    - title: Help Desk - Tutor
       institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
       year: Fall 2022 - Winter 2023
       description:
-- Helped students with quizzes, assignments, projects, and general questions about the Computer Science program course material.
-- Attended weekly sessions with other tutors to review tutoring strategies and discuss improvements to the tutoring program suggested by students.
-- Arranged weekly study sessions with students facing difficulties in specific areas of a Computer Science or Software Engineering course.
-- Coordinated between students unable to benefit fully from the help desk tutoring with Professors and Teaching Assistants of the courses
+        - Helped students with quizzes, assignments, projects, and general questions about the Computer Science program course material.
+        - Attended weekly sessions with other tutors to review tutoring strategies and discuss improvements to the tutoring program suggested by students.
+        - Arranged weekly study sessions with students facing difficulties in specific areas of a Computer Science or Software Engineering course.
+        - Coordinated between students unable to benefit fully from the help desk tutoring with Professors and Teaching Assistants of the courses
 
-- title: Undergraduate Note-taker
+    - title: Undergraduate Note-taker
       institution: McGill University OSD Student Office, Montreal, Canada
       year: Winter 2021 - Winter 2023
       description:
-- Provided academic support regarding understanding difficult concepts via email and zoom meetings to students registered with the OSD Office.
-- Provided detailed, organized lecture, lab, and tutorial notes to Undergraduate Students.
-- Tutored students in various Subjects (Engineering, Computer Science, Physics, Mathematics, Economics).
-- Completed over 180 Hours as an Undergraduate Note-taker
+        - Provided academic support regarding understanding difficult concepts via email and zoom meetings to students registered with the OSD Office.
+        - Provided detailed, organized lecture, lab, and tutorial notes to Undergraduate Students.
+        - Tutored students in various Subjects (Engineering, Computer Science, Physics, Mathematics, Economics).
+        - Completed over 180 Hours as an Undergraduate Note-taker
 
 - title: Organizations
   type: time_table
