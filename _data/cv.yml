@@ -106,7 +106,7 @@
   
   contents:
     
-    - title: Techinal
+    - title: Technical
       institution: 
       year: 
       description:
@@ -321,7 +321,7 @@
   type: nested_list
   contents:
     - title: Robotics
-      items: 
+      items:
 
     - title: Artificial Intelligence
       items:
