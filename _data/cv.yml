@@ -294,13 +294,13 @@
       year: 2022-Present
       description:
 
-          - Drone Software Engineer
+          - Drone Software Engineer <br>
             - Advanced AI-driven planning and mid-course correction programs by refining AI algorithms for autonomous trajectory creation and co-piloting.
             - Introduced the use of real-time ROS features such as multi-threading into the drone program in addition to implementing advanced ROS features.
             - Implemented robotic features such as motion planning, mapping, manipulators, robot algorithms, deep and machine learning, and computer vision.
             - Used different communication protocols such as CAN, I2C, UART, SPI, and others with the 3DR Pixhawk Mini as the autopilot to control drone
 
-          - Drone Team Sponsorship Representative
+          - Drone Team Sponsorship Representative <br>
             - Procure hardware and software from companies
             - Secure sponsorship from companies
 
