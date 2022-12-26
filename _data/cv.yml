@@ -251,7 +251,7 @@
   
     - title: Industry Mentorship Program - Mentor
       institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
-      year: Fall 2022 - Winter 2023
+      year: 2022 - 2023
       description:
           - Gave lectures and conducted the respective post-lecture sessions and helped in slide and study material creation.
           - Held weekly office hours to help mentees with issues that they faced regarding the lecture material and the capstone project.
@@ -260,7 +260,7 @@
 
     - title: Help Desk - Tutor
       institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
-      year: Fall 2022 - Winter 2023
+      year: 2022 - 2023
       description:
         - Helped students with quizzes, assignments, projects, and general questions about the Computer Science program course material.
         - Attended weekly sessions with other tutors to review tutoring strategies and discuss improvements to the tutoring program suggested by students.
@@ -269,7 +269,7 @@
 
     - title: Undergraduate Note-taker
       institution: McGill University OSD Student Office, Montreal, Canada
-      year: Winter 2021 - Winter 2023
+      year: 2021 - 2023
       description:
         - Provided academic support regarding understanding difficult concepts via email and zoom meetings to students registered with the OSD Office.
         - Provided detailed, organized lecture, lab, and tutorial notes to Undergraduate Students.
@@ -293,6 +293,7 @@
     - title: <a href="https://www.mcgillrobotics.org/drone"> McGill Robotics </a>
       year: 2022-Present
       description: Drone Team
+      
           - Advanced AI-driven planning and mid-course correction programs by refining AI algorithms for autonomous trajectory creation and co-piloting.
           - Introduced the use of real-time ROS features such as multi-threading into the drone program in addition to implementing advanced ROS features.
           - Implemented robotic features such as motion planning, mapping, manipulators, robot algorithms, deep and machine learning, and computer vision.
