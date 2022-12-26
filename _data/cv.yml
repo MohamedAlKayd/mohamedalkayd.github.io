@@ -235,7 +235,7 @@
 
     - title: Robotics Software Engineering Intern
       institution: Robotics Design Inc, Montreal, Canada
-      year: May 2022 - April 2023
+      year: 2022 - 2023
       description:
         
         - title: Full-time, Summer 2022
@@ -251,16 +251,7 @@
           - Designed the graphical user interface to interact with the built IGUS D1 dryves’ control system.
           - Implemented cross-device testing of solutions to increase user accessibility.
           - Used CANOPEN and MODBUS communication protocols to program motor controllers for Stepper, DC, and EC motors with up to 21A and 48V
-    
-    - title: Drone Software Engineer
-      institution: McGill University Robotics Drone Team, Montreal, Canada
-      year: Fall 2022 - Winter 2023
-      description:
-          - Advanced AI-driven planning and mid-course correction programs by refining AI algorithms for autonomous trajectory creation and co-piloting.
-          - Introduced the use of real-time ROS features such as multi-threading into the drone program in addition to implementing advanced ROS features.
-          - Implemented robotic features such as motion planning, mapping, manipulators, robot algorithms, deep and machine learning, and computer vision.
-          - Used different communication protocols such as CAN, I2C, UART, SPI, and others with the 3DR Pixhawk Mini as the autopilot to control drone
-
+  
     - title: Industry Mentorship Program - Mentor
       institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
       year: Fall 2022 - Winter 2023
@@ -291,13 +282,27 @@
 - title: Organizations
   type: time_table
   contents:
-    - title: <a href="https://cscan-infocan.ca/mohamed-mahmoud/">CS-CAN</a>
+  
+    - title: <a href="https://cscan-infocan.ca/mohamed-mahmoud/"> CS-CAN </a>
       year: 2022-Present
       description: Computer Science Canada / Informatique Canada
 
-    - title: <a href="https://mcgill-csus.github.io/industry-mentorship/">Industry Mentorship Program</a>
+    - title: <a href="https://mcgill-csus.ca/"> Computer Science Undergraduate Society </a>
       year: 2022-Present
-      description: Tech Industry Preparation
+      description: 
+      - <a href="https://mcgill-csus.github.io/industry-mentorship/"> Industry Mentorship Program - Mentor </a>
+      - <a href="https://mcgill-csus.ca/helpdesk/"> Help Desk - Tutor </a>
+
+    - title: <a href="https://www.mcgillrobotics.org/drone"> McGill Robotics </a>
+      year: 2022-Present
+      description: Drone Team
+          - Advanced AI-driven planning and mid-course correction programs by refining AI algorithms for autonomous trajectory creation and co-piloting.
+          - Introduced the use of real-time ROS features such as multi-threading into the drone program in addition to implementing advanced ROS features.
+          - Implemented robotic features such as motion planning, mapping, manipulators, robot algorithms, deep and machine learning, and computer vision.
+          - Used different communication protocols such as CAN, I2C, UART, SPI, and others with the 3DR Pixhawk Mini as the autopilot to control drone
+
+    - title: <a href="https://ctf.science.mcgill.ca/"> Computer Task Force </a>
+
 
 - title: Honors and Awards
   type: time_table
