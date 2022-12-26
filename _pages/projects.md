@@ -9,6 +9,13 @@ display_categories: [Academic, Industry]
 horizontal: false
 ---
 
+<style>
+.pictures{
+width: 200px;
+height: 120px:
+}
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -38,7 +45,7 @@ horizontal: false
   {%- endif -%}
   {% endfor %}
 
-  <img src = "../assets/img/Project_1.jpg"/>
+  <img src = "../assets/img/Project_1.jpg" class="pictures"/>
 
 {%- else -%}
 <!-- Display projects without categories -->
