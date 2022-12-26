@@ -19,7 +19,7 @@ horizontal: false
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
 
-  1111111
+  
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
@@ -38,7 +38,7 @@ horizontal: false
   {%- endif -%}
   {% endfor %}
 
-  asdasd
+  <img src = "../assets/img/Project_1.jpg"/>
 
 {%- else -%}
 <!-- Display projects without categories -->
