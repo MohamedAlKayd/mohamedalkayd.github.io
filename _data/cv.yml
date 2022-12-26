@@ -293,7 +293,7 @@
     - title: <a href="https://www.mcgillrobotics.org/drone"> McGill Robotics </a>
       year: 2022-Present
       description: Drone Team
-      
+
           - Advanced AI-driven planning and mid-course correction programs by refining AI algorithms for autonomous trajectory creation and co-piloting.
           - Introduced the use of real-time ROS features such as multi-threading into the drone program in addition to implementing advanced ROS features.
           - Implemented robotic features such as motion planning, mapping, manipulators, robot algorithms, deep and machine learning, and computer vision.
@@ -305,13 +305,17 @@
 - title: Honors and Awards
   type: time_table
   contents:
+
     - year: 2018
       items: 
         - Hugh Brock Entrance Scholarship
     - year: 2022
       items: 
         - Undergraduate Internship Award
-        - Tomlinson Project in University-Level Science Education (T-Pulse) Engagement Award for Mentoring (TEAM)
+
+    - year: 2022
+      items:
+      - Tomlinson Project in University-Level Science Education (T-Pulse) Engagement Award for Mentoring (TEAM)
 
 - title: Academic Interests
   type: nested_list
