@@ -3,9 +3,6 @@
   contents:
     - name: Full Name
       value: Mohamed Mahmoud
-    
-    - name: Date of Birth
-      value: 15th May 2000
 
     - name: Languages
       value: Arabic, English
