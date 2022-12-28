@@ -59,17 +59,7 @@ height: 5%:
   </div>
   {%- endif -%}
   {% endfor %}
-  <img src = "../assets/img/project_2.jpg" class="pictures"/>
-  <br>
-  <img src = "../assets/img/project_1.jpg" class="pictures"/>
-  <br>
-  <img src = "../assets/img/project_5.jpg" class="pictures"/>
-  <br>
-  <img src = "../assets/img/project_6.jpg" class="pictures"/>
-  <br>
 
-
-  INDUSTRIAL
 
 {%- else -%}
 <!-- Display projects without categories -->
@@ -92,3 +82,12 @@ height: 5%:
   {%- endif -%}
 {%- endif -%}
 </div>
+
+  <img src = "../assets/img/project_2.jpg" class="pictures"/>
+  <br>
+  <img src = "../assets/img/project_1.jpg" class="pictures"/>
+  <br>
+  <img src = "../assets/img/project_5.jpg" class="pictures"/>
+  <br>
+  <img src = "../assets/img/project_6.jpg" class="pictures"/>
+  <br>
