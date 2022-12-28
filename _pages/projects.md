@@ -45,25 +45,25 @@ height: 5%:
   {%- endif -%}
   {% endfor %}
 
-  <img src = "../assets/img/Project_1.jpg" class="pictures"/>
+  <img src = "../assets/img/project_1.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_2.jpg" class="pictures"/>
+  <img src = "../assets/img/project_2.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_3.jpg" class="pictures"/>
+  <img src = "../assets/img/project_3.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_4.jpg" class="pictures"/>
+  <img src = "../assets/img/project_4.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_5.jpg" class="pictures"/>
+  <img src = "../assets/img/project_5.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_6.jpg" class="pictures"/>
+  <img src = "../assets/img/project_6.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_7.jpg" class="pictures"/>
+  <img src = "../assets/img/project_7.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_8.jpg" class="pictures"/>
+  <img src = "../assets/img/project_8.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_9.jpg" class="pictures"/>
+  <img src = "../assets/img/project_9.jpg" class="pictures"/>
   <br>
-  <img src = "../assets/img/Project_10.jpg" class="pictures"/>
+  <img src = "../assets/img/project_10.jpg" class="pictures"/>
 
 {%- else -%}
 <!-- Display projects without categories -->
