@@ -39,6 +39,9 @@ height: 5%:
   <img src = "../assets/img/project_10.jpg" class="pictures"/>
   <br>
 
+
+  ACADEMIC
+
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
@@ -64,6 +67,9 @@ height: 5%:
   <br>
   <img src = "../assets/img/project_6.jpg" class="pictures"/>
   <br>
+
+
+  INDUSTRIAL
 
 {%- else -%}
 <!-- Display projects without categories -->
