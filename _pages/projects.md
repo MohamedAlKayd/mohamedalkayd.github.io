@@ -46,6 +46,15 @@ height: 5%:
   {% endfor %}
 
   <img src = "../assets/img/Project_1.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_2.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_3.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_4.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_5.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_6.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_7.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_8.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_9.jpg" class="pictures"/>
+  <img src = "../assets/img/Project_10.jpg" class="pictures"/>
 
 {%- else -%}
 <!-- Display projects without categories -->
