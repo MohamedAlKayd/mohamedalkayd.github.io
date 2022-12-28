@@ -11,8 +11,8 @@ horizontal: false
 
 <style>
 .pictures{
-width: 200px;
-height: 120px:
+width: 60%;
+height: 5%:
 }
 </style>
 
