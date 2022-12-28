@@ -26,8 +26,6 @@ height: 5%:
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
 
-  <img src = "../assets/img/project_2.jpg" class="pictures"/>
-  <br>
   <img src = "../assets/img/project_3.jpg" class="pictures"/>
   <br>
   <img src = "../assets/img/project_4.jpg" class="pictures"/>
@@ -40,7 +38,7 @@ height: 5%:
   <br>
   <img src = "../assets/img/project_10.jpg" class="pictures"/>
   <br>
-  
+
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
@@ -58,7 +56,8 @@ height: 5%:
   </div>
   {%- endif -%}
   {% endfor %}
-
+  <img src = "../assets/img/project_2.jpg" class="pictures"/>
+  <br>
   <img src = "../assets/img/project_1.jpg" class="pictures"/>
   <br>
   <img src = "../assets/img/project_5.jpg" class="pictures"/>
