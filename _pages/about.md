@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>208N</p>
+    <p>208N McConnell Engineering Building</p>
     <p>3380 Blvd Robert-Bourassa</p>
     <p>Montreal, Canada</p>
 
