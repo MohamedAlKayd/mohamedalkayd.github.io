@@ -17,7 +17,7 @@ height: 5%:
 </style>
 
 <!-- pages/projects.md -->
-<div class="projects">
+<!-- <div class="projects"> -->
 <!-- {%- if site.enable_project_categories and page.display_categories %}
 
   <!-- Display categorized projects -->
@@ -86,4 +86,4 @@ height: 5%:
   </div>
   {%- endif -%} -->
 <!-- {%- endif -%} -->
-</div>
+<!-- </div> -->
