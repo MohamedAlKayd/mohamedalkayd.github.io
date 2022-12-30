@@ -26,7 +26,7 @@ height: 5%:
   <!-- {%- assign categorized_projects = site.projects | where: "category", category -%} -->
   <!-- {%- assign sorted_projects = categorized_projects | sort: "importance" %} -->
 
-<img src = "../assets/img/project_1.jpg" class="pictures"/>
+<img src = "../assets/img/Project_1.jpg" class="pictures"/>
 <br>  <br>
 <img src = "../assets/img/project_2.jpg" class="pictures"/>
 <br>  <br>
