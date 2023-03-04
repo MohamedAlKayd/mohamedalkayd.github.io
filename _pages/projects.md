@@ -46,6 +46,14 @@ height: 10%:
 <br>  <br>
 <img src = "../assets/img/project_10.jpg" class="pictures"/>
 <br>  <br>
+<img src = "../assets/img/project_11.jpg" class="pictures"/>
+<br>  <br>
+<img src = "../assets/img/project_12.jpg" class="pictures"/>
+<br>  <br>
+<img src = "../assets/img/project_13.jpg" class="pictures"/>
+<br>  <br>
+<img src = "../assets/img/project_14.jpg" class="pictures"/>
+<br>  <br>
 
   <!-- Generate cards for each project -->
   <!-- {% if page.horizontal -%}
