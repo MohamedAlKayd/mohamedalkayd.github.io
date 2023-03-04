@@ -71,7 +71,7 @@
     
     - title: Industry Mentorship Program - Mentor
       institution: McGill University Computer Science Undergraduate Society, Montreal, Canada
-      year: 2022 - 2023
+      year: 2022
       description:
         
         - title: Lectures
@@ -96,6 +96,10 @@
             - COMP202 Fall 2022 Midterm Review
             - COMP202 Fall 2022 Final Review
             - COMP206 Fall 2022 Midterm Review
+            - COMP202 Winter 2023 Midterm I Review
+            - COMP202 Winter 2023 Midterm II Review
+            - COMP206 Winter 2023 Midterm I Review
+            - COMP206 Winter 2023 Midterm II Review
 
         - title: Weekly Tutoring
           contents:
