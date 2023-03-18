@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Completed Projects.
+description: Completed projects at the Undergraduate and Graduate level.
 nav: true
 nav_order: 2
 display_categories: [Projects]
