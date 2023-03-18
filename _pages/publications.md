@@ -11,14 +11,12 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 <div class="publications">
-- ROBOTICS DESIGN SUMMER 2022 PROJECT REPORT
-
-- COMP251 - PROOF REPORT <br><br>
-- COMP396 - FINAL REPORT <br><br>
-- COMP400 - FINAL REPORT <br><br>
-- COMP417 - ASSIGNMENTS REPORT <br><br>
-- COMP424 - PROJECT REPORT <br><br>
-- COMP480 - FINAL REPORT <br><br>
-- COMP551 - ASSIGNMENTS REPORT <br><br>
-
+- D1 Dryve Management System Report <br><br>
+- Data Structures & Algorithms Proof Report <br><br>
+- Hover robot Research Report <br><br>
+- Kinova Gen 3 Robot Arm Neural Network Model Report <br><br>
+- Robotics and Intelligent Systems Projects Reports <br><br>
+- Artificial Intelligence Project Report <br><br>
+- Multi-agent systems Research Report <br><br>
+- Applied Machine Learning Project Reports <br><br>
 </div>
