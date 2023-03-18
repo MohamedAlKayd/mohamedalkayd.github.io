@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Announcement
-date: 2022-05-01 16:11:00-0400
+title: Master's Degree
+date: 2024-12-31 23:59:59-0400
 inline: false
 ---
 
-This announcement is a list of research projects completed at the undergraduate level.
+Summary of Master's Degree at McGill University.
 
 ***

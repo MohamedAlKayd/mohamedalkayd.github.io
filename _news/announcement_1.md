@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2023-04-30 23:59:00-0400
+title: Bachelor's Degree
+date: 2023-04-30 23:59:59-0400
 inline: false
 ---
 
-Bachelors Degree Completed.
+Summary of Bachelor's Degree at McGill University
+
+***
