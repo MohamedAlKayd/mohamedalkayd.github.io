@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Research
 description:
 years: [2022, 2022, 2022, 2023, 2023]
 nav: true
