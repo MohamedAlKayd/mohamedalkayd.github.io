@@ -11,9 +11,22 @@
   type: time_table
   
   contents:
+
+  - title: Master's Degree in Computer Science
+  institution: McGill University
+  year: 2024
+  description:
+
+  - title: Courses
+  contents:
+  - Distributed Systems
+  - Advanced Computer Systems
+  - Computer Networks
+  - Cryptography and Data Security
+  - Reinforcement Learning
     
     - title: Bachelors Degree
-      institution: McGill University, Montreal, Canada
+      institution: McGill University
       year: 2023
       description:
         
