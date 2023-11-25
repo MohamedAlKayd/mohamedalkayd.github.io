@@ -18,3 +18,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Graduate student studying Computer Science with a focus on Robotics at McGill University.
+<br><br>

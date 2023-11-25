@@ -19,4 +19,5 @@ nav_order: 1
 - Artificial Intelligence Project Report <br><br>
 - Multi-agent systems Research Report <br><br>
 - Applied Machine Learning Project Reports <br><br>
+- Multi-Agent Delivery System Project Report <br><br>
 </div>
