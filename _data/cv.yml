@@ -12,6 +12,8 @@
   
   contents:
 
+# Graduate Degree
+
   - title: Master's Degree in Computer Science
     institution: McGill University
     year: 2024
@@ -21,9 +23,13 @@
       contents:
       - Distributed Systems
       - Advanced Computer Systems
+      - Unmanned Aerial Vehicles
       - Computer Networks
       - Cryptography and Data Security
+      - Multi-Agent Systems
       - Reinforcement Learning
+  
+  # Undergraduate Degree
     
   - title: Bachelors Degree
     institution: McGill University
@@ -43,7 +49,48 @@
   type: time_table
   
   contents:
+
+    # Research Project 4
+
+    - title: Multi-Agent Delivery System Research Project
+      institution: McGill University Prometheus Hardware Lab
+      year: Summer 2023
+      supervisor: Professor Joseph Vybihal and Dr. Nicholas Nadeau
+      description:
+
+        - title: Designed Robotics Operating System (ROS) node for multi-agent delivery system.
+          contents:
+          - Created robotics software module used for multi-agent communication between any mobile robot system.
+          - Based communication protocol on ABM-BDI model algorithms.
+
+    # Research Project 3
+
+    - title: Kinova Gen 3 Robot Arm Research Project
+      institution: McGill University Prometheus Hardware Lab
+      year: Winter 2023
+      supervisor: Professor David Meger
+      description:
+        
+        - title:  Use Robotics Operating System to simulate, test, and automate Kinova Gen 3 Robot Arm.
+          contents:
+          - Researching path and trajectory planning for Kinova Gen 3 Robot Arm using different artificial intelligence and machine learning algorithms.
+          - Programming Kinova Gen 3 Robot Arm to perform complex tasks using Robotics Operating System, Ubuntu, and Gazebo.
+
+    # Research Project 2
+
+    - title: Autonomous Agents Research Project
+      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
+      year: Winter 2023
+      supervisor: Professor Joseph Vybihal
+      description:
+        
+        - title: Optimizing built hover robot with advanced artificial intelligence algorithms.
+          contents:
+          - Implementing multi-agent system by controlling boe-bots on MODBUS TCP/IP networks concurrently with hover robot.
+          - Testing ABM, BDI models, ConGolog Situation Calculus, ROS autonomous agents, and Adaptive Monte Carlo Localization on system.
     
+    # Research Project 1
+
     - title: Robot Control System Research Project
       institution: McGill University Prometheus Hardware Lab, Montreal, Canada
       year: Summer 2022
@@ -55,28 +102,6 @@
           - Built vehicle on wheels Robot with additional sensors together with a base AI program.
           - Robot can explore advanced problems in AI, sensors, robotic group dynamics, and advanced control systems. 
     
-    - title: Autonomous Agents Research Project
-      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
-      year: Winter 2023
-      supervisor: Professor Joseph Vybihal
-      description:
-        
-        - title: Optimizing built hover robot with advanced artificial intelligence algorithms.
-          contents:
-          - Implementing multi-agent system by controlling boe-bots on MODBUS TCP/IP networks concurrently with hover robot.
-          - Testing ABM, BDI models, ConGolog Situation Calculus, ROS autonomous agents, and Adaptive Monte Carlo Localization on system.
-
-    - title: Kinova Gen 3 Robot Arm Research Project
-      institution: McGill University Prometheus Hardware Lab, Montreal, Canada
-      year: Winter 2023
-      supervisor: Professor David Meger
-      description:
-        
-        - title:  Use Robotics Operating System to simulate, test, and automate Kinova Gen 3 Robot Arm.
-          contents:
-          - Researching path and trajectory planning for Kinova Gen 3 Robot Arm using different artificial intelligence and machine learning algorithms.
-          - Programming Kinova Gen 3 Robot Arm to perform complex tasks using Robotics Operating System, Ubuntu, and Gazebo.
-
 - title: Teaching Experience
   type: time_table
   
@@ -247,6 +272,19 @@
 
   contents:
 
+    # Work 2 - Summer 2023
+
+    - title: Robotics Instructor
+      institution: Camp in Labs Foundation
+      year: Summer 2023
+      description:
+
+        - title: Full-time
+          contents:
+          - Developed 2 STEM-based introduction to robotics courses for age groups of 08-12 and 13-18.
+
+    # Work 1 - Summer 2022
+
     - title: Robotics Software Engineering Intern
       institution: Robotics Design Inc, Montreal, Canada
       year: 2022 - 2023
@@ -328,30 +366,28 @@
   type: time_table
   contents:
 
-    - year: 2018
-      items: 
-        - Hugh Brock Entrance Scholarship
+    - year: 2023
+    items:
+      - TechAccel Summer Stipend Award
+      - Natural Sciences and Engineering Research Council of Canada Undergraduate Student Research Award
+
+    - year: 2022
+    items:
+      - Tomlinson Project in University-Level Science Education (T-Pulse) Engagement Award for Mentoring (TEAM)
+
     - year: 2022
       items: 
         - Undergraduate Internship Award
 
-    - year: 2022
-      items:
-      - Tomlinson Project in University-Level Science Education (T-Pulse) Engagement Award for Mentoring (TEAM)
+    - year: 2018
+      items: 
+        - Hugh Brock Entrance Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Robotics
-      items:
+      items: Unmmaned Aerial Vehicles
 
     - title: Artificial Intelligence
-      items:
-
-    - title: Machine Learning
-      items:
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Programming robots, disassembling and assembling hardware.
+      items: Reinforcement Learning
