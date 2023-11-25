@@ -367,21 +367,21 @@
   contents:
     
     - year: 2023
-    items:
-    - TechAccel Summer Stipend Award
-    - Natural Sciences and Engineering Research Council of Canada Undergraduate Student Research Award
+      items:
+      - TechAccel Summer Stipend Award
+      - Natural Sciences and Engineering Research Council of Canada Undergraduate Student Research Award
 
     - year: 2022
-    items:
-    - Tomlinson Project in University-Level Science Education (T-Pulse) Engagement Award for Mentoring (TEAM)
+      items:
+      - Tomlinson Project in University-Level Science Education (T-Pulse) Engagement Award for Mentoring (TEAM)
 
     - year: 2022
-    items:
-    - Undergraduate Internship Award
+      items:
+      - Undergraduate Internship Award
 
     - year: 2018
-    items: 
-    - Hugh Brock Entrance Scholarship
+      items: 
+      - Hugh Brock Entrance Scholarship
 
 - title: Academic Interests
   type: nested_list
