@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Mohamed Yasser Anwar Mahmoud # the website title (if blank, full name will be used instead)
+title: Personal Website # the website title (if blank, full name will be used instead)
 first_name: Mohamed
-middle_name: Yasser Anwar
+middle_name: 
 last_name: Mahmoud
 email: mohamed.mahmoud@mail.mcgill.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
