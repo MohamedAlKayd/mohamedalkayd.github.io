@@ -2,14 +2,30 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Experience teaching at the Undergraduate level.
+description: Experience teaching at the Undergraduate and Graduate levels.
 nav: true
 nav_order: 5
 ---
 
-Teaching Experience
+<!-- Teaching Assistantship -->
 
-<b> McGill University Student Accessibility & Achievement - Note-taker and Tutor</b>
+<b>Teaching Assistantships <b>
+
+<b> McGill University Teaching Assistantship Positions <b>
+
+<b> Winter 2023 <b>
+
+- COMP206: Introduction to Software Systems
+
+<b> Fall 2023 <b>
+
+- COMP206: Introduction to Software Systems
+
+<!-- Note Taking -->
+
+<b> Note-taking <b>
+
+<b> McGill University Student Accessibility & Achievement - Note-taker </b>
 
 <b>WINTER 2021</b>
 
@@ -59,6 +75,10 @@ Teaching Experience
 
 - MATH223: Linear Algebra II
 
+<!-- Mentorships -->
+
+<b> Mentorships <b>
+
 <b>Computer Science Undergraduate Society Industry Mentorship Program – Mentor</b>
 
 <b>FALL 2022</b>
@@ -73,6 +93,9 @@ Teaching Experience
 
 - Lecture 10: Deploying your application.
 
+<!-- Tutoriships -->
+
+<b> Tutorships <b>
 
 <b>Computer Science Undergraduate Society Help Desk – Tutor</b>
 
