@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter PIN</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .pin-box {
+            text-align: center;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="pin-box">
+        <h2>Enter PIN</h2>
+        <input type="password" id="pin" placeholder="Enter PIN">
+        <button onclick="validatePIN()">Submit</button>
+        <p id="error-message" style="color: red;"></p>
+    </div>
+
+    <script>
+        function validatePIN() {
+            var pin = document.getElementById('pin').value;
+            var correctPin = '1234'; // Replace with your actual PIN
+
+            if (pin === correctPin) {
+                window.location.href = 'about.html'; // Redirects to your homepage
+            } else {
+                document.getElementById('error-message').innerText = 'Incorrect PIN, please try again.';
+            }
+        }
+    </script>
+</body>
+
+</html>
