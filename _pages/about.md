@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Graduate Student and Robotics Engineer | Innovating at the Intersection of Robotics and AI
 
 profile:
   align: right
