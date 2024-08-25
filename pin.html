@@ -38,6 +38,7 @@
             var correctPin = '1234'; // Replace with your actual PIN
 
             if (pin === correctPin) {
+                sessionStorage.setItem('pinEntered', 'true'); // Save that the PIN was entered
                 window.location.href = 'about.html'; // Redirects to your homepage
             } else {
                 document.getElementById('error-message').innerText = 'Incorrect PIN, please try again.';
