@@ -25,18 +25,18 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
             border: 10px solid #c0c0c0;
             /* Add a thick border for the chain effect */
-            background-image: url('path_to_your_chain_image.png');
+            background-image: url('assets/img/chain.png');
             /* Add your chain image here */
             background-size: 100% 100%;
             background-repeat: no-repeat;
             width: 300px;
-            /* Increase width */
+            /* Adjust as needed */
             height: 200px;
-            /* Increase height */
         }
 
         input[type="password"] {
-            width: 80%;
+            width: 100%;
+            /* Set to 100% to make it as wide as the container */
             padding: 10px;
             margin-top: 20px;
             font-size: 1.2em;
@@ -67,7 +67,7 @@
 <body>
     <div class="pin-box">
         <h2>Enter PIN</h2>
-        <input type="password" id="pin" placeholder="Enter PIN">
+        <input type="password" id="pin" placeholder="Enter PIN" onkeydown="checkEnterKey(event)">
         <button onclick="validatePIN()">Submit</button>
         <p id="error-message"></p>
     </div>
@@ -82,6 +82,12 @@
                 window.location.href = 'about.html'; // Redirects to your homepage
             } else {
                 document.getElementById('error-message').innerText = 'Incorrect PIN, please try again.';
+            }
+        }
+
+        function checkEnterKey(event) {
+            if (event.key === 'Enter') {
+                validatePIN();
             }
         }
     </script>
