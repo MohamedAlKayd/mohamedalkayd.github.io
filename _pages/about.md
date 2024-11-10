@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Graduate Computer Science Student and Robotics Software Engineering Expert | Leading the Merging between Robotics Software and Artificial Intelligence
+subtitle: Robotics Software Engineering Expert | Leading the Merging between Robotics Software and Artificial Intelligence
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p> McConnell Engineering Building - 3380 Blvd Robert-Bourassa</p>
-    <p> Montreal, Canada </p>
+    <p> Canada </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
