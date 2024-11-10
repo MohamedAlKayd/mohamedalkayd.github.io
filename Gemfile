@@ -30,3 +30,5 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
+gem "jekyll-scholar", "~> 5.16"
