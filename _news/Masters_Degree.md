@@ -14,17 +14,17 @@ Courses:
 <br>
 - Advanced Computer Systems
 <br>
-- Unmanned Aerial Vehicles
+- Natural Language Understanding with Deep Learning
 <br>
-- Computer Networks
-<br>
-Cryptography and Data Security
-<br>
-Multi-Agent Systems
+- Cryptography and Data Security
 <br>
 Reinforcement Learning
+<br>
+Responsible AI
+<br>
+Mathematical Tools for Computer Science
 <br><br>
 Work Terms:
 <br><br>
-Summer 2024
+Summer 2024: Robotics Design Inc
 ***
