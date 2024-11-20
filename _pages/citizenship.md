@@ -4,4 +4,4 @@ layout: default
 permalink: /citizenship/
 ---
 ## Citizenship: Canada
-![Canadian Passport Cover](../assets/images/Citizenship.jpg)
+![Canadian Passport Cover](assets/images/Citizenship.jpg)
